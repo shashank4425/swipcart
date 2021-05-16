@@ -1,0 +1,263 @@
+{
+    "trending_prod": [{
+            "id": "511",
+            "prodid": "50101",
+            "prodName": "Samsung",
+            "prodTitle": "Galexy M01 Black",
+            "prodPath": "/samsung-galexy-m01-black.png",
+            "prod_spec": {
+                "prodCamara": "13MP + 2MP Rear Camera",
+                "prodBattery": "4000 mAh Battery",
+                "prodOfferPrice": "9,999",
+                "prodPrevPrice": "10,499",
+                "prodRam": "3 GB RAM",
+                "prodRom": "32 GB Storage",
+                "prodDisplaySize": "5 inch Display",
+                "prodColor": "Black"
+            }
+
+        },
+        {
+            "id": "512",
+            "prodid": "50101",
+            "prodName": "Samsung",
+            "prodTitle": "Galexy M01 Blue",
+            "prodPath": "/samsung-galexy-m01-blue.png",
+            "prod_spec": {
+                "prodCamara": "13MP + 2MP Rear Camera",
+                "prodBattery": "4000 mAh Battery",
+                "prodOfferPrice": "9,999",
+                "prodPrevPrice": "10,499",
+                "prodRam": "3 GB RAM",
+                "prodRom": "32 GB Storage",
+                "prodDisplaySize": "5 inch Display",
+                "prodColor": "Blue"
+            }
+
+        },
+        {
+            "id": "513",
+            "prodid": "50101",
+            "prodName": "Samsung",
+            "prodTitle": "Galexy M01 Red",
+            "prodPath": "/samsung-galexy-m01-red.png",
+            "prod_spec": {
+                "prodCamara": "13MP + 2MP Rear Camera",
+                "prodBattery": "4000 mAh Battery",
+                "prodOfferPrice": "9,999",
+                "prodPrevPrice": "10,499",
+                "prodRam": "3 GB RAM",
+                "prodRom": "32 GB Storage",
+                "prodDisplaySize": "5 inch Display",
+                "prodColor": "Red"
+            }
+
+        },
+        {
+            "id": "514",
+            "prodid": "50101",
+            "prodName": "Samsung",
+            "prodTitle": "Galexy M11 Voilet",
+            "prodPath": "/samsung-galexy-m11-voilet.png",
+            "prod_spec": {
+                "prodCamara": "13MP + 8MP + 5MP + 2MP Rear Camera",
+                "prodBattery": "5000 mAh Battery",
+                "prodOfferPrice": "11,600",
+                "prodPrevPrice": "11,999",
+                "prodRam": "3 GB RAM",
+                "prodRom": "32 GB Storage",
+                "prodDisplaySize": "6.4 inch Display",
+                "prodColor": "Voilet"
+            }
+
+        },
+        {
+            "id": "515",
+            "prodid": "50101",
+            "prodName": "Samsung",
+            "prodTitle": "Galexy M11 Metalic",
+            "prodPath": "/samsung-galexy-m11-metalicblue.png",
+            "prod_spec": {
+                "prodCamara": "13MP + 8MP + 5MP + 2MP Rear Camera",
+                "prodBattery": "5000 mAh Battery",
+                "prodOfferPrice": "11,999",
+                "prodPrevPrice": "10,499",
+                "prodRam": "3 GB RAM",
+                "prodRom": "32 GB Storage",
+                "prodDisplaySize": "6.4 inch Display",
+                "prodColor": "Metalic Blue"
+            }
+        },
+        {
+            "id": "516",
+            "prodid": "50101",
+            "prodName": "Samsung",
+            "prodTitle": "Samsung Galaxy A30s 128 GB Prism Crush",
+            "prodPath": "/a30swhite_base_1.webp",
+            "prod_spec": {
+                "prodCamara": "25 MP + 5 MP + 8 MP Rear Camera",
+                "prodBattery": "4000 mAh Battery",
+                "prodOfferPrice": "16,856",
+                "prodPrevPrice": "17,999",
+                "prodRam": "4 GB RAM",
+                "prodRom": "128 GB Storage",
+                "prodDisplaySize": "6.4 inch Display",
+                "prodColor": "White"
+            }
+        },
+        {
+            "id": "517",
+            "prodid": "50101",
+            "prodName": "Samsung",
+            "prodTitle": "Samsung Galaxy A31 128 GB",
+            "prodPath": "/a31blue_base.webp",
+            "prod_spec": {
+                "prodCamara": "48MP + 8MP + 5MP + 5MP Rear Camera",
+                "prodBattery": "4000 mAh Battery",
+                "prodOfferPrice": "19,999",
+                "prodPrevPrice": "23,999",
+                "prodRam": "6 GB RAM",
+                "prodRom": "128 GB Storage",
+                "prodDisplaySize": "6.4 inch Display",
+                "prodColor": "Blue"
+            }
+        },
+        {
+            "id": "518",
+            "prodid": "50101",
+            "prodName": "Samsung",
+            "prodTitle": "Samsung Galaxy Note 10 Lite 128 GB Aura",
+            "prodPath": "/black_base_1_7.webp",
+            "prod_spec": {
+                "prodCamara": "12MP + 12MP + 12MP Rear Camera",
+                "prodBattery": "4500 mAh Battery",
+                "prodOfferPrice": "37,999",
+                "prodPrevPrice": "41,000",
+                "prodRam": "6 GB RAM",
+                "prodRom": "128 GB Storage",
+                "prodDisplaySize": "6.4 inch Display",
+                "prodColor": "Black"
+            }
+        },
+        {
+            "id": "519",
+            "prodid": "50101",
+            "prodName": "Samsung",
+            "prodTitle": "Samsung Galaxy S10 128 GB Prism",
+            "prodPath": "/smg10_white_base.webp",
+            "prod_spec": {
+                "prodCamara": "12 MP + 12 MP + 16 MP Rear Camera",
+                "prodBattery": "3400 mAh Battery",
+                "prodOfferPrice": "57,841",
+                "prodPrevPrice": "72,292",
+                "prodRam": "8 GB RAM",
+                "prodRom": "128 GB Storage",
+                "prodDisplaySize": "6.1 inch Display",
+                "prodColor": "White"
+            }
+        },
+        {
+            "id": "611",
+            "prodid": "50101",
+            "prodName": "Vivo",
+            "prodTitle": "Y91i 32 GB Blue",
+            "prodPath": "/vivo-y91i-32gb-ocean-blue-3gb.jpg",
+            "prod_spec": {
+                "prodCamara": "13MP Rear Camera",
+                "prodBattery": "4030 mAh Battery",
+                "prodOfferPrice": "9,290",
+                "prodPrevPrice": "9,990",
+                "prodRam": "3 GB RAM",
+                "prodRom": "32 GB Storage",
+                "prodDisplaySize": "6.2 inch Display",
+                "prodColor": "Dazzle Blue"
+            }
+        },
+        {
+            "id": "612",
+            "prodid": "50101",
+            "prodName": "Vivo",
+            "prodTitle": "Y91i 16 GB Blue",
+            "prodPath": "/vivo-y91i-16gb-ocean-blue-2gb.jpg",
+            "prod_spec": {
+                "prodCamara": "13MP Rear Camera",
+                "prodBattery": "4030 mAh Battery",
+                "prodOfferPrice": "8,000",
+                "prodPrevPrice": "9,990",
+                "prodRam": "2 GB RAM",
+                "prodRom": "16 GB Storage",
+                "prodDisplaySize": "6.2 inch Display",
+                "prodColor": "Blue"
+            }
+        },
+        {
+            "id": "613",
+            "prodid": "50101",
+            "prodName": "Vivo",
+            "prodTitle": "Y91i 32 GB Fusion",
+            "prodPath": "/vivo-y91i-32gb-ocean-blue-2gb.jpg",
+            "prod_spec": {
+                "prodCamara": "13MP Rear Camera",
+                "prodBattery": "4030 mAh Battery",
+                "prodOfferPrice": "9,290",
+                "prodPrevPrice": "9,990",
+                "prodRam": "3 GB RAM",
+                "prodRom": "32 GB Storage",
+                "prodDisplaySize": "6.2 inch Display",
+                "prodColor": "Black"
+            }
+        },
+        {
+            "id": "614",
+            "prodid": "50101",
+            "prodName": "Vivo",
+            "prodTitle": "Y30 128 GB dazzle",
+            "prodPath": "/vivo-y30-dazzle-blue-4gb.jpg",
+            "prod_spec": {
+                "prodCamara": "13MP  +8MP + 2MP + 2MP Rear Camera",
+                "prodBattery": "5000 mAh Battery",
+                "prodOfferPrice": "14,990",
+                "prodPrevPrice": "15,999",
+                "prodRam": "4 GB RAM",
+                "prodRom": "128 GB Storage",
+                "prodDisplaySize": "6.47 inch Display",
+                "prodColor": "Dazzle Blue"
+            }
+        },
+        {
+            "id": "615",
+            "prodid": "50101",
+            "prodName": "Vivo",
+            "prodTitle": "V11 64 GB Black",
+            "prodPath": "/vivo-v11-starrynight-black-6gb.jpg",
+            "prod_spec": {
+                "prodCamara": "16 MP + 5 MP Rear Camera",
+                "prodBattery": "5000 mAh Battery",
+                "prodOfferPrice": "19,990",
+                "prodPrevPrice": "20,990",
+                "prodRam": "6 GB RAM",
+                "prodRom": "64 GB Storage",
+                "prodDisplaySize": "6.3 inch Display",
+                "prodColor": "Night Black"
+            }
+        },
+        {
+            "id": "616",
+            "prodid": "50101",
+            "prodName": "Vivo",
+            "prodTitle": "Y91i 32 GB Blue",
+            "prodPath": "/vivo-y91i-32gb-ocean-blue-2gb.jpg",
+            "prod_spec": {
+                "prodCamara": "13MP Rear Camera",
+                "prodBattery": "4030 mAh Battery",
+                "prodOfferPrice": "8,000",
+                "prodPrevPrice": "8,990",
+                "prodRam": "2 GB RAM",
+                "prodRom": "32 GB Storage",
+                "prodDisplaySize": "6.2 inch Display",
+                "prodColor": "Blue"
+            }
+        }
+        
+    ]
+}

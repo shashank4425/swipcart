@@ -1,0 +1,137 @@
+@charset "ISO-8859-1";
+body{
+background:#f1f3f6;	
+}
+.products {
+    height: 240px;
+}
+ul.prod_path.product-list-items {
+    width: 99%;
+    display: inline-block;
+    padding: 0px 0px;
+    margin: 10px 5px;
+    box-shadow: 0px 0px 2px 0px;
+}
+
+.pord_spec #PC_spec {
+  padding: 8px 0px;
+  font-size: 13px;
+  letter-spacing: 0.3px;
+  opacity: 0.8;
+  overflow: hidden;
+}
+.find_pd_byname {
+    width: 17%;
+    float: left;
+    height: 400px;
+    margin: 4px 7px;
+    box-shadow: 0px 1px 1px 0px;
+    background: #fff;
+}
+.left-sec-item {
+    margin: 4px 12px;
+}
+li#left-list-items {
+    padding: 2px 4px;
+    font-family: Roboto,Arial,sans-serif;
+}
+span#list_name {
+    padding: 0px 0px 0px 8px;
+    font-size: 12px;
+}
+hr {
+    margin: 20px auto;
+}
+div#right-sw-prod_li {
+	background:#fff;
+    margin: 4px 7px;
+    padding: 40px 0px;
+    border:none;
+    width: 80%;
+    float: right;
+    box-shadow: 0px 0px 1px 0px;
+}
+.search_field {
+   float: right;
+    margin-right: 31px;
+    width: 25%;
+}
+.search_field input[type="text"] {
+    padding: 10px;
+    width: 100%;
+    border-radius: 4px;
+}
+p#ftitle {
+    text-align: center;
+    width: 97%;
+    color: lightslategrey;
+    font-family: AllianzSansBold;
+}
+h1#total_prod {
+	background:#fff;
+    text-align: center;
+    width: 99%;
+    padding: 10px 0px;
+    margin: 10px 8px 0px 8px;
+    box-shadow: 0px 0px 1px;
+    font-family: AllianzSansBold;
+}
+.prod_img,.prod_img_list {
+    float: left;
+    width: 20%;
+    padding: 19px 10px;
+    height: 100%;
+}
+.prod_img img {
+    position: relative;
+    height: 80%;
+}
+.prod_img_list img{
+	height:140px;
+	width:136px;
+}
+section.heading {
+    display: inline-block;
+    width: 71%;
+    padding: 19px 10px;
+}
+.pricehead {
+    float: left;
+    width: 55%;
+    color: red;
+    display: inline-block;
+    text-align: justify;
+}
+.prodTitle{
+	display: inline-block;
+}
+#PC_spec:before {
+    content: "\2022";
+    color: #ff9323;
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+    top: 50%;
+    transform: translate(-50%);
+    opacity: 1;
+    font-size: 17px;
+}
+.top_Sec,.pord_spec{
+ width: 100%;
+}
+.pord_spec {
+    text-align: justify;
+    height: 159px;
+    display: inline-block;
+    float: left;
+    padding: 0px 11px;
+}
+.priceTagsec {
+    display: inline-block;
+    padding: 20px 11px;
+}
+p {
+    font-size: 1rem;
+    color: #333;
+    font-family: AllianzSansBold;
+}

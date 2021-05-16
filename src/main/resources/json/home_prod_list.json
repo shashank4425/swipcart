@@ -1,0 +1,195 @@
+{
+    "electronic": {
+        "title": "Electronic",
+        "countItem":"24",
+        "url": "products?All_brand_products_id=4010",
+        "products":[
+        [{
+        "tabs": [{
+            "columns": 
+                [{
+                    "elcid":"225",
+                    "name":"Headphone",
+                    "title": "boAt 103 Wireless Bluetooth Headset",
+                    "url": "/accessories?attr_brand_new_id=225",
+                    "prodOfferPrice": "6,99",
+                    "prodPrevPrice": "7,99",
+                    "color":"Active Black, In the Ear",
+                    "prodPath":"http://localhost:8081/content/resource/103-wireless-boat-original.jpeg"
+                }, {
+                    "elcid":"226",
+                    "name":"Headphone",
+                    "title": "boAt 235v2 Fast Charging Bluetooth Headset",
+                    "url": "/accessories?attr_brand_new_id=226",
+                    "prodOfferPrice": "1,099",
+                    "prodPrevPrice": "9,990",
+                    "color":"Active Black, In the Ear",
+                    "prodPath":"http://localhost:8081/content/resource/235-fast-charging-boat-original.jpeg"
+                }, {
+                    "elcid":"227",
+                    "name":"Headphone",
+                    "title": "boAt BassHeads 220 Wired Headset",
+                    "url": "/accessories?attr_brand_new_id=227",
+                    "prodOfferPrice": "5,25",
+                    "prodPrevPrice": "9,99",
+                    "color":"Active Black, In the Ear",
+                    "prodPath":"http://localhost:8081/content/resource/boat-220-super-extra-bass-original.jpeg"
+                }, {
+                    "elcid":"228",
+                    "name":"Headphone",
+                    "title": "boAt BassHeads 220 Super Extra Bass",
+                    "url": "/accessories?attr_brand_new_id=228",
+                    "prodOfferPrice": "5,25",
+                    "prodPrevPrice": "9,99",
+                    "color":"Blue, In the Ear",
+                    "prodPath":"http://localhost:8081/content/resource/boat-225-with-carrying-case-original.jpeg"
+                }, {
+                    "elcid":"229",
+                    "name":"Headphone",
+                    "title": "JBL T450BT Extra Bass Bluetooth Headset",
+                    "url": "/accessories?attr_brand_new_id=229",
+                    "prodOfferPrice": "2,499",
+                    "prodPrevPrice": "3,499",
+                    "color":"White, On the Ear",
+                    "prodPath":"http://localhost:8081/content/resource/jbl-t450bt-original.jpeg"
+                }, {
+                    "elcid":"230",
+                    "name":"Headphone",
+                    "title": "boAt Rockerz 400 Bluetooth Headset",
+                    "url": "/accessories?attr_brand_new_id=230",
+                    "prodOfferPrice": "1,199",
+                    "prodPrevPrice": "2,990",
+                    "color":"Red, Black, On the Ear",
+                    "prodPath":"http://localhost:8081/content/resource/boat-rockerz-400-extra-bass-headp.jpeg"
+                }, {
+                    "elcid":"231",
+                    "name":"Headphone",
+                    "title": "boAt Rockerz 400 Super Extra Bass Bluetooth Headset",
+                    "url": "/accessories?attr_brand_new_id=231",
+                    "prodOfferPrice": "1,199",
+                    "prodPrevPrice": "2,990",
+                    "prodPath":"http://localhost:8081/content/resource/boat-rockerz-on-ear-400-headp.jpeg"
+                }, {
+                    "elcid":"232",
+                    "name":"Headphone",
+                    "title": "boAt Rockerz 510 Super Extra Bass Bluetooth Headset",
+                    "url": "/accessories?attr_brand_new_id=232",
+                    "prodOfferPrice": "1,899",
+                    "prodPrevPrice": "3,990",
+                    "color":"Blue, On the Ear",
+                    "prodPath":"http://localhost:8081/content/resource/c-rockerz-on-ear-510-boat-headp.jpeg"
+                }, {
+                    "elcid":"233",
+                    "name":"Headphone",
+                    "title": "boAt Rockerz 335 Bluetooth Headset",
+                    "url": "/accessories?attr_brand_new_id=233",
+                    "prodOfferPrice": "1,999",
+                    "prodPrevPrice": "3,990",
+                    "color":"Raging Red, In the Ear",
+                    "prodPath":"http://localhost:8081/content/resource/rockerz-335-boat-original-red.jpeg"
+                }, {
+                    "elcid":"234",
+                    "name":"Headphone",
+                    "title": "boAt Rockerz 335 Bluetooth Headset",
+                    "url": "/accessories?attr_brand_new_id=234",
+                    "prodOfferPrice": "1,099",
+                    "prodPrevPrice": "3,990",
+                    "color":"Blazing Yellow, In the Ear",
+                    "prodPath":"http://localhost:8081/content/resource/rockerz-335-boat-original.jpeg"
+                }, {
+                    "elcid":"235",
+                    "name":"Headphone",
+                    "title": "boAt Rockerz 450 Bluetooth Headset",
+                    "url": "/accessories?attr_brand_new_id=235",
+                    "prodOfferPrice": "1,499",
+                    "prodPrevPrice": "3,990",
+                    "color":"Luscious Black, On the Ear",
+                    "prodPath":"http://localhost:8081/content/resource/rockerz-450-boat-original-headp.jpeg"
+                },{
+                    "elcid":"236",
+                    "name":"Headphone",
+                    "title": "boAt 100 Wireless Neckband with BT 5.0 IPX4 Bluetooth Headset",
+                    "url": "/accessories?attr_brand_new_id=236",
+                    "prodOfferPrice": "1,399",
+                    "prodPrevPrice": "2,999",
+                    "color":"Active Black, In the Ear",
+                    "prodPath":"http://localhost:8081/content/resource/wireless-4-mic-active-black-boat-original.jpeg"
+                }]
+            
+        }]
+        }],
+        [{
+            "tabs": [{
+                "columns": 
+                    [{
+                        "elcid":"325",
+                        "name":"Laptop",
+                        "title": "Dell Vostro Core i5 10th Gen",
+                        "url": "/accessories?attr_brand_new_id=325",
+                        "prodOfferPrice": "53,490",
+                        "prodPrevPrice": "53,859",
+                        "color":"Black",
+                        "DisplaySize":"14 Inch",
+                        "Memory":"8 GB/1 TB HDD/256 GB SSD",
+                        "prodPath":"http://localhost:8081/content/resource/dell-original-lapo.jpeg"
+                    }, {
+                        "elcid":"326",
+                        "name":"Laptop",
+                        "title": "Dell Vostro Core i3 10th Gen",
+                        "url": "/accessories?attr_brand_new_id=326",
+                        "prodOfferPrice": "39,998",
+                        "prodPrevPrice": "40,999",
+                        "color":"Black",
+                        "DisplaySize":"14 Inch",
+                        "Memory":"4 GB/1 TB HDD/256 GB SSD",
+                        "prodPath":"http://localhost:8081/content/resource/dell-original-laptw.jpeg"
+                    }, {
+                        "elcid":"327",
+                        "name":"Laptop",
+                        "title": "Dell G3 Core i5 10th Gen",
+                        "url": "/accessories?attr_brand_new_id=327",
+                        "prodOfferPrice": "73,990",
+                        "prodPrevPrice": "74,802",
+                        "color":"Black",
+                        "DisplaySize":"15.6 inch",
+                        "Memory":"8 GB/1 TB HDD/256 GB SSD",
+                        "prodPath":"http://localhost:8081/content/resource/dell-na-gaming-lapthr.jpeg"
+                    }, {
+                        "elcid":"328",
+                        "name":"Laptop",
+                        "title": "Dell G3 Core i7 9th Gen",
+                        "url": "/accessories?attr_brand_new_id=328",
+                        "prodOfferPrice": "84,990",
+                        "prodPrevPrice": "89,210",
+                        "color":"Black",
+                        "DisplaySize":"15.6 Inch",
+                        "Memory":"8 GB/1 TB HDD/512 GB SSD",
+                        "prodPath":"http://localhost:8081/content/resource/dell-na-gaming-lapfo.jpeg"
+                    }, {
+                        "elcid":"329",
+                        "name":"Laptop",
+                        "title": "Dell Inspiron 7000 Core i5 10th Gen",
+                        "url": "/accessories?attr_brand_new_id=329",
+                        "prodOfferPrice": "91,252",
+                        "prodPrevPrice": "92,416",
+                        "color":"Black",
+                        "DisplaySize":"13 Inch",
+                        "Memory":"4 GB/1 TB HDD/256 GB SSD",
+                        "prodPath":"http://localhost:8081/content/resource/dell-na-lapfivj.jpeg"
+                    }, {
+                        "elcid":"330",
+                        "name":"Laptop",
+                        "title": "Dell Inspiron Ryzen 5 Quad Core",
+                        "url": "/accessories?attr_brand_new_id=330",
+                        "prodOfferPrice": "44,855",
+                        "prodPrevPrice": "52,755",
+                        "color":"Silver",
+                        "DisplaySize":"15 inch",
+                        "Memory":"8 GB/512 GB SSD",
+                        "prodPath":"http://localhost:8081/content/resource/dell-original-lapsi.jpeg"
+                    }]
+                
+            }]
+            }]
+        ]}
+}

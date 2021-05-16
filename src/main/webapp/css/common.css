@@ -1,0 +1,334 @@
+@charset "ISO-8859-1";
+@font-face {
+    font-family: AllianzSansBold;
+    src: url("/fonts/Allianz Sans Bold.eot");
+    src: url("/fonts/Allianz Sans Bold.eot?#iefix") format("embedded-opentype"),url("/fonts/Allianz Sans Bold.woff");
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0-10FFFF
+}
+body {
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll;
+}
+header {
+    min-width: 979px;
+    margin: 0;
+    padding: 0;
+    top: 0;
+}
+.header-secondary {
+    background: #2874f0;
+    width: 100%;
+    height: 70px;
+}
+.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 99999;
+    background: #2874f0;
+}
+.logo {
+    width: 91px;
+    display: block;
+    background: transparent;
+}
+.brand-logo a {
+    text-decoration: none;
+}
+.brand-logo p {
+    color: #fff;
+    font-size: 1.3rem;
+    font-family: AllianzSansBold;
+    font-style: italic;
+}
+.brand-logo img {
+    margin: -10px 0px;
+}
+.ex {
+    color: #fff;
+    font-size: 0.8rem;
+    font-style: italic;
+    font-family: AllianzSansBold;
+}
+.brand-logo span {
+    bottom: -6px;
+    display: block;
+    position: relative;
+}
+.brand-logo {
+	width:90px;
+    margin: 12px 0px 0px 54px;
+}
+.cart-sec {
+    display: inline;
+    margin: 21px 10p;
+    margin: 21px 0px;
+    right: 40px;
+    position: absolute;
+}
+.cart-sec span {
+    color: #fff;
+    font-size: 1rem;
+    font-family: Roboto,Arial,sans-serif;
+}
+.fa-shopping-cart{ 
+  font-size: 20px;
+  color:#fff;
+  padding:0px 5px;
+}
+#right-sec .log-btn,#right-sec .logout-btn{
+    padding: 8px 23px;
+    font-size: 1rem;
+    background: #fff;
+    color: #2874f0;
+    border: none;
+    font-family: AllianzSansBold;
+    outline: none;
+    text-decoration:none;
+    border-radius: 0px;
+    cursor:pointer;
+    box-shadow: 0px 0px 2px 0px;
+}
+span#title-tag {
+    font-size: 1rem;
+    font-family: AllianzSansBold;
+}
+div#left-brand-des {
+    width: 36%;
+    background: #2874f0;
+    height: 100%;
+    display: inline-block;
+    border-right: 2px solid gray;
+}
+h2#feature-tag {
+    padding: 25px 23px;
+    color:#fff;
+}
+.container-fluid {
+    height: 100%;
+}
+div#left-sec {
+    width: 20%;
+    float: left;
+    position: relative;
+    display: inline-block;
+    height: 100%;
+}
+div#right-sec {
+    width: 20%;
+    float: right;
+    height: 100%;
+}
+li {
+    list-style: none;
+    color: #000;
+    font-family: Roboto,Arial,sans-serif;
+}
+li#POfFP_spec{
+	color:#388e3c;
+	font-family: AllianzSansBold;
+}
+#PPVP_spec{
+	text-decoration: line-through;
+	color:#655f5f;
+}
+#sw-prod_li a,#sw-prod_li_hp a,#sw-prod_li_lt a {
+    text-decoration: none;
+    color: #fff;
+    font-family: AllianzSansBold;
+    text-align: center;
+    outline: none;
+}
+#PT_spec{
+	font-weight:bold;
+}
+#PT_spec, #PC_spec{
+	color:#655f5f;
+}
+li#PC_spec {
+    font-weight: normal;
+}
+/*
+footer {
+    background: #172337;
+    width: 100%;
+    clear: both;
+    min-width: 979px;
+    height: 170px;
+    position:relative;
+}*/
+
+footer {
+    text-align: center;
+    background-color: #0a165d;
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    bottom: 0px;
+    width: 100%;
+    float: left;
+    padding: 50px 0 50px 0;
+    clear: both;
+}
+#base-footer h1 {
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 0.8rem;
+    text-align: center;
+    position: relative;
+    display: inline;
+}
+.social ul {
+    margin: 0;
+    padding: 13px 0px;
+}
+.social ul li {
+    list-style: none;
+    margin-right: 15px;
+    display: inline;
+}
+.social ul li a {
+    text-decoration: none;
+    box-shadow: 0 10px 15px rgb(0, 0, 0, .3s);
+    text-align: center;
+    padding: 10px;
+}
+i.fab.fa-facebook-f, i.fab.fa-instagram, i.fab.fa-youtube, i.fab.fa-twitter {
+    color: #fff;
+}
+.fab {
+    font-family: "Font Awesome 5 Brands";
+}
+.fa-instagram:before {
+    content: "\f16d";
+}
+.fa-facebook-f:before {
+    content: "\f39e";
+}
+.fa-youtube:before {
+    content: "\f167";
+}
+.fa-twitter:before {
+    content: "\f099";
+}
+i {
+    border-width: 0 5px 5px 0;
+    display: inline-block;
+
+}
+div#privacy-pol {
+    margin: 0px;
+}
+#privacy-pol li {
+    display: inline;
+    list-style: none;
+    margin: 10px 15px 10px 15px;
+}
+#privacy-pol li a {
+    color: #fff;
+    text-decoration: none;
+}
+div#copyright-res p {
+    color: #fff !important;
+     text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',Geneva,Verdana,sans-serif;
+    font-weight: 700;
+    color: rgb(39,38,38);
+    font-size: .82rem;
+    display: initial;
+}
+
+.headphones{
+	margin:10px 10px;
+	min-height: 310px;
+}
+
+.hp-list-items,.electronic-product-list-items{
+	display: inline-block;
+    width: 23%;
+    height:100%;
+	margin: 5px 0px 8px 23px;
+}
+button.slick-prev.slick-arrow,button.slick-next.slick-arrow {
+    text-indent: -1000em;
+    border: navajowhite;
+}
+.ac-btn {
+    margin: 21px 11px;
+    display: inline-block;
+}
+
+.ac-btn .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 0px 0px 10px;
+  background-color: inherit;
+  font-family: Roboto,Arial,sans-serif;
+  margin: 0;
+}
+
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  right: 135px;
+  margin:0px;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  font-family: Roboto,Arial,sans-serif;
+  text-align: left;
+  border-bottom: 1px solid lightgray;
+  border-top: 1px solid lightgray;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.ac-btn:hover .dropdown-content {
+  display: block;
+}
+.arr {
+    left: 43%;
+    width: 0;
+    position: absolute;
+    display: inline-block;
+    height: 0;
+    top: -9px;
+    border-right: 5px solid transparent;
+    border-left: 5px solid transparent;
+    border-bottom: 11px solid #f9f9f9;
+}
+
+.scrollToTop {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 50%;
+    z-index: 1;
+    cursor: pointer;
+    display: none;
+}
+.scroll-up-icon {
+    background: url(/content/resource/right-arrow-white.png) no-repeat 0 0;
+    width: 45px;
+    height: 50px;
+    margin: auto;
+}

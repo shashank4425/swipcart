@@ -1,0 +1,120 @@
+@charset "ISO-8859-1";
+#productDetails{
+	padding: 0px 0px 90px 0px;
+}
+
+.prod_img,.prod_img_elec {
+    width: 100%;
+    margin: 30px 25px;
+}
+.prod_img img {
+    padding: 20px 99px;
+    height: 255px;
+}
+
+.pord_spec {
+    width: 60%;
+    float: right;
+}
+li{
+	padding: 10px 0px;
+}
+#sele_trend_prod .left-sec {
+    width: 29%;
+    float: left;
+    margin: 10px 25px;
+}
+
+p#prodTitle {
+    font-size: 1.2rem;
+    font-family: AllianzSansBold;
+}
+ul.row_btn {
+    float: left;
+    width: 100%;
+}
+#add_to_cart,#buy-now-btn {
+   width: 47%;
+    padding: 15px 0px;
+    box-shadow: 0px 0px 2px;
+    float: left;
+    margin: 0px 8px 0px 0px;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid #fb9b27;
+    white-space: nowrap;
+    cursor: pointer;
+    outline: none;
+    font-size: 1em;
+}
+#buy-now-btn{
+ background-color: #fb641b;
+ color:#fff;
+ font-family: AllianzSansBold;
+}
+#add_to_cart{
+   display: inline-block;
+    float: left;
+    background-color: #fff;
+    color: #fb9b27;
+   font-family: AllianzSansBold;
+}
+
+.SPEC:before {
+    content: "";
+    width: 14px;
+    height: 15px;
+    position: absolute;
+    background-position: 20px;
+    margin: 0px 0px 0px -24px;
+    background: url(/content/resource/list-items.png) no-repeat 0 0;
+}
+.star-rating-v2 {
+    min-width: 320px;
+    position: relative;
+    display: inline-block;
+    left: 32%;
+    -webkit-box-shadow: 1px 1px 10px 1px #e0e0e0;
+    -ms-box-shadow: 1px 1px 10px 1px #e0e0e0;
+    -o-box-shadow: 1px 1px 10px 1px #e0e0e0;
+    box-shadow: 1px 1px 10px 1px #e0e0e0;
+}
+.rating-div {
+    text-align: center;
+}
+#pre-rating {
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+.live-rating {
+    font-size: 14px;
+    margin-top: 10px;
+}
+.jq-star-svg {
+    padding-left: 3px;
+    width: 100%;
+    height: 100%;
+}
+.jq-star {
+    display: inline-block;
+    cursor: pointer;
+}
+svg {
+    margin: 1%;
+    overflow: hidden;
+}
+.img-zoom-lens {
+    position: absolute;
+    border: 1px solid #d4d4d4;
+    width: 40px;
+    height: 40px;
+}
+.img-zoom-result {
+  border: 1px solid #d4d4d4;
+  /*set the size of the result div:*/
+  width: 300px;
+  height: 300px;
+  /* position: absolute;*/
+   bottom: 10%;
+   left: 25%;
+}

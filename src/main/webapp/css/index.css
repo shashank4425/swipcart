@@ -1,0 +1,184 @@
+@charset "ISO-8859-1";
+ul.prod_path {
+    width: 15%;
+    margin: 1px 0px 40px;
+    box-shadow: 0px 4px 4px 4px #d4d4d4;
+    display: inline-table;
+    margin: 10px, 13px;
+}
+.prod_img_elc img {
+    display: inline!important;
+    height: 150px!important;
+}
+.product_desc {
+    display: inline-block;
+    width: 100%;
+    box-shadow: 0px 0px 0px 1px;
+}
+.list-items-secondary .prod_img {
+    padding: 16px 0px;
+}
+img {
+    position: relative;
+}
+.electronic-product-list-items .prod_img_elc {
+   margin: 10px 20px 0px 0px;
+}
+.product_desc h1 {
+    font-size: 1.5rem;
+    color: #333333;
+    font-family: AllianzSansBold;
+    float: left;
+    margin: 10px 20px;
+}
+ #productDetails {
+   display: flex;
+    flex-wrap: wrap;
+ }
+ .view_all_pd {
+    float: right;
+    margin: 10px;
+    padding: 14px;
+    box-sizing: border-box;
+    background: #2874f0;
+    color: #fff;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+    border: none;
+ }
+div#sw-prod_li,div#sw-prod_li_hp {
+    width: 100%;
+    margin: 19px 0px;
+    height: auto;
+    box-shadow: 1px -2px 9px -5px grey;
+}
+div#sw-prod_li_lt {
+    width: 100%;
+    margin: 19px 0px;
+    height: auto;
+    box-shadow: 1px -2px 9px -5px grey;
+}
+div.list-items {
+    display: inline-block;
+    width: 100%;
+    padding:0px 20px 0px 1px;
+     margin: 30px 0px 1px 25px;
+}
+
+.owl-carousel.owl-loaded.owl-drag {
+    height: auto;
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 1px 1px grey;
+}
+button.owl-prev {
+    position: relative;
+    bottom: 240px;
+    width: 30px;
+    height: 50px;
+    margin-left: 1px;
+    box-shadow: 0px 0px 2px;
+    border-radius: 0px 2px 2px 0px;
+}
+button.owl-next {
+    float: right;
+    position: relative;
+    bottom: 220px;
+    width: 30px;
+    height: 50px;
+    box-shadow: 0px 0px 2px;
+    border-radius: 2px 0px 0px 2px;
+}
+
+#sw-prod_li a{
+text-align: center;
+}
+#spec {
+    font-size: 1rem;
+    font-family: AllianzSansBold;
+    text-overflow: ellipsis;
+    margin: 10px 17px;	
+}
+.owl-carousel .owl-item img {
+    display: inline!important;
+    width: 73%!important;
+    left: 30%;
+}
+.owl-item{
+	width:261px!important;
+}
+.list-items li{
+	padding: 5px 20px;
+	text-align:center;
+}
+div#tr_prod_spec {
+   margin: 0px 0px;
+}
+
+.headphones.responsive.slick-initialized.slick-slider,.electronic.responsive.slick-initialized.slick-slider,.electronics.responsive.slick-initialized.slick-slider {
+    margin: 10px 10px;
+    width: 91%;
+    margin: 10px auto;
+}
+#prodOffPrice{
+    font-size: 0.9rem;
+    color: dimgrey;
+    }
+#prodName{
+ font-size: 1rem;
+    font-family: AllianzSansBold;
+    text-overflow: ellipsis;
+}
+
+button.slick-next.slick-arrow {
+    background: url(/content/resource/right-arrow.png);
+    width: 44px;
+    height: 49px;
+    background-position: -3px 334px;
+    float: right;
+    outline:none;
+    position: absolute;
+    right: -49px;
+    top: 80px;
+}
+button.slick-prev.slick-arrow {
+    background: url(/content/resource/left-arrow.png);
+    width: 44px;
+    height: 49px;
+    background-position: -3px 334px;
+    float: revert;
+    position: absolute;
+    outline:none;
+    /* right: 37px; */
+    top: 80px;
+    left: -42px;
+}
+.slick-slide img {
+    display: inline-block!important;;
+}
+button.slick-next.slick-arrow.slick-disabled {
+    display: none!important;
+}
+button.slick-prev.slick-arrow.slick-disabled {
+    display: none!important;
+}
+
+.hp-list-items.slick-slide{
+	width: 221px !important;
+	height: 300px !important;
+}
+.prod_img img {
+    height: 159px;
+}
+.hp-list-items li,.electronic-product-list-items li,.electronics-product-list-items li{
+ padding: 4px 0px;
+}
+.electronic-product-list-items.slick-slide {
+    width: 182px !important;
+}
+div.list-items-secondary {
+    display: inline-block;
+    width: 99%;
+    /* padding: 0px 20px 0px 1px; */
+    /* margin: 30px 0px 1px 25px; */
+}
+
