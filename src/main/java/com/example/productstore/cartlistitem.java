@@ -8,9 +8,7 @@ import javax.persistence.Table;
 @Table(name="cartlist_tab")
 public class cartlistitem {
 	
-
 	  @Id
-    //@GeneratedValue(strategy = GenerationType.AUTO)
 	   Long id;
 	   String prodid;
 	   String prodName;
