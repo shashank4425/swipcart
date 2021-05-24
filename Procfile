@@ -1,0 +1,1 @@
+web java -Dserver.port=$PORT $JAVA_OPTS -jar target/product-store-0.0.1-SNAPSHOT.jar $PORT target/*.war
