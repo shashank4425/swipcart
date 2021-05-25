@@ -23,7 +23,7 @@
     <li id="left-list-items"> <input type="checkbox" name="5010" value="5010"><span id="list_name">All</span></li>
     <li id="left-list-items"> <input type="checkbox" name="Samsung" value="Samsung"><span id="list_name">SAMSUNG</span></li>
     <li id="left-list-items"> <input type="checkbox" name="Vivo" value="Vivo"><span id="list_name">VIVO</span></li>
-    <li id="left-list-items"> <input type="checkbox" name="Xiaomi" value="Xiaomi"><span id="list_name">REDMI</span></li>
+    <li id="left-list-items"> <input type="checkbox" name="REDMI" value="REDMI"><span id="list_name">REDMI</span></li>
     <li id="left-list-items"> <input type="checkbox" name="Oppo" value="Oppo"><span id="list_name">APPLE</span></li>
     <li id="left-list-items"> <input type="checkbox" name="Xiaomi" value="Xiaomi"><span id="list_name">MI</span></li>
     <li id="left-list-items"> <input type="checkbox" name="Oppo" value="Oppo"><span id="list_name">OPPO</span></li>

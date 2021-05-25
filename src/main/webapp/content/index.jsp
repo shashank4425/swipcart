@@ -86,7 +86,7 @@
                             <div class="list-items-secondary"><a href="http://localhost:8081/smartphone?brand_new_id=612"
                                     target="_blank">
                                     <div class="prod_img"><img
-                                            data-lazy="http://localhost:8081/content/resource/vivo-y91i-16gb-ocean-blue-2gb.jpg/">
+                                            data-lazy="http://localhost:8081/content/resource/vivo-y91i-16gb-ocean-blue-2gb.jpeg/">
                                     </div>
                                     <div id="tr_prod_spec">
                                         <li id="PT_spec">Y91i 16 GB Blue</li>
@@ -100,7 +100,7 @@
                             <div class="list-items-secondary"><a href="http://localhost:8081/smartphone?brand_new_id=513"
                                     target="_blank">
                                     <div class="prod_img"><img
-                                            data-lazy="http://localhost:8081/content/resource/samsung-galexy-m01-red.png/">
+                                            data-lazy="http://localhost:8081/content/resource/samsung-galexy-m01-red.jpeg/">
                                     </div>
                                     <div id="tr_prod_spec">
                                         <li id="PT_spec">Galexy M01 Red</li>
@@ -113,7 +113,7 @@
                             <div class="list-items-secondary"><a href="http://localhost:8081/smartphone?brand_new_id=615"
                                     target="_blank">
                                     <div class="prod_img"><img
-                                            data-lazy="http://localhost:8081/content/resource/vivo-v11-starrynight-black-6gb.jpg/">
+                                            data-lazy="http://localhost:8081/content/resource/vivo-v11-starrynight-black-6gb.jpeg/">
                                     </div>
                                     <div id="tr_prod_spec">
                                         <li id="PT_spec">V11 64 GB Black</li>
@@ -126,7 +126,7 @@
                             <div class="list-items-secondary"><a href="http://localhost:8081/smartphone?brand_new_id=613"
                                     target="_blank">
                                     <div class="prod_img"><img
-                                            data-lazy="http://localhost:8081/content/resource/vivo-y91i-32gb-ocean-blue-2gb.jpg/">
+                                            data-lazy="http://localhost:8081/content/resource/vivo-y91i-32gb-ocean-blue-2gb.jpeg/">
                                     </div>
                                     <div id="tr_prod_spec">
                                         <li id="PT_spec">Y91i 32 GB Fusion</li>
@@ -139,7 +139,7 @@
                             <div class="list-items-secondary"><a href="http://localhost:8081/smartphone?brand_new_id=612"
                                     target="_blank">
                                     <div class="prod_img"><img
-                                            data-lazy="http://localhost:8081/content/resource/vivo-y91i-16gb-ocean-blue-2gb.jpg/">
+                                            data-lazy="http://localhost:8081/content/resource/vivo-y91i-16gb-ocean-blue-2gb.jpeg/">
                                     </div>
                                     <div id="tr_prod_spec">
                                         <li id="PT_spec">Y91i 16 GB Blue</li>
@@ -151,7 +151,7 @@
                         </div>
                         <div class="hp-list-items">
                             <div class="list-items-secondary"><a href="http://localhost:8081/smartphone?brand_new_id=514" target="_blank">
-                                <div class="prod_img"><img data-lazy="http://localhost:8081/content/resource/samsung-galexy-m11-voilet.png/">
+                                <div class="prod_img"><img data-lazy="http://localhost:8081/content/resource/samsung-galexy-m11-voilet.jpeg/">
                                 </div>
                                 <div id="tr_prod_spec">
                                     <li id="PT_spec">Galexy M11 Voilet</li>

@@ -328,7 +328,6 @@ public class productHandler{
 	
 	@RequestMapping(value="attr_brand_new_id={elcid}", produces = MediaType.APPLICATION_JSON)
 	public ResponseEntity<Object> getEarphone(@PathVariable String elcid, HttpServletResponse res,HttpSession session,Model model){
-		System.out.println("called");
 		HashMap<String, Object> hm=new HashMap<String, Object>();
 		List<Object> lists=new ArrayList<Object>();
 		JSONParser parser=new JSONParser();
